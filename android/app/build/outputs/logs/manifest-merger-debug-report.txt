@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:2:5-22
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/devhulk/.android/build-cache/22b01ba2ef51a8e8fb7c422f48f2d6d17cdf3bbf/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/devhulk/.android/build-cache/22b01ba2ef51a8e8fb7c422f48f2d6d17cdf3bbf/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/devhulk/.android/build-cache/f44187a633c4f0bad8edd8e95f4689433764bfb0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/devhulk/.android/build-cache/fa0ba3bc0a08536cef12215d7233180b6915f4d8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/devhulk/.android/build-cache/f3c592125699afb530bc6295b1c2b5309515aa62/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/devhulk/.android/build-cache/f0529626013f1b852aa47c4fec9c6382adba5510/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/devhulk/.android/build-cache/19f45fe3d2d1f922ae2650e826e1aa4fa3278314/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/devhulk/.android/build-cache/a1fe4ba8d0f00ce9b65b5ff163c114b7145556ba/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/devhulk/.android/build-cache/24d14ed405e01eba99c7ae2102dc3708b0422c27/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/devhulk/.android/build-cache/b7e727bf54aa999e95b0bae149da7f125c0a61e2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/devhulk/.android/build-cache/a3f65694e878c689f6ad79fa4ac7d706cd436356/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/devhulk/.android/build-cache/fc50d678b91ca5c21be61276349e8cd666a2b03d/output/AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.facebook.react:react-native:0.49.3] /Users/devhulk/.android/build-cache/22b01ba2ef51a8e8fb7c422f48f2d6d17cdf3bbf/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/devhulk/.android/build-cache/f44187a633c4f0bad8edd8e95f4689433764bfb0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/devhulk/.android/build-cache/fa0ba3bc0a08536cef12215d7233180b6915f4d8/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/devhulk/.android/build-cache/fc50d678b91ca5c21be61276349e8cd666a2b03d/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/devhulk/.android/build-cache/09554d0b9be73f6a63da8be45218e4f8cf1e4f67/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.chy.MainActivity
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/devhulk/techgesture/chy/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2ee3cfae5049b7b217de148b6d351b2bbbef20bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7b60421f4b20f02e70709734f8511250d071f3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_7c25efefcfecf713dc9cc00ad40f0565486e09a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/fa0ba3bc0a08536cef12215d7233180b6915f4d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_e2d7eb3c5439be57db8cbc52dcb2282cfd84f2b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/f3c592125699afb530bc6295b1c2b5309515aa62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_c3faa5f2d9f1d288b4067d8046b2b7b1544db875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/a3f65694e878c689f6ad79fa4ac7d706cd436356/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_429730fa4b456412e9122f607dbb349b6bf6d867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/24d14ed405e01eba99c7ae2102dc3708b0422c27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_535280c7cbe223436a49fc5a6d3f17e41e3f3cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_840ae3805a490b918285c24bf6ae61c1ed1cee8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e77b1e48abd775881cb5a184217ac41f8c825918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/19f45fe3d2d1f922ae2650e826e1aa4fa3278314/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_60381b435288777f07d36f34640dde06340f2697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_7833b30ac0779206ec55056e974cece40533c57a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/a1fe4ba8d0f00ce9b65b5ff163c114b7145556ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_ac6d8562d6935547dbe854a4a9cf78ed67484f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_de303392a5dbd70277aac333d7d129ae6d4ca353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c7f333f16299be0699b532bd5d993377d745e06c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/b7e727bf54aa999e95b0bae149da7f125c0a61e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_a08489cc70d0e52e06ef83667eae5e96e7385a53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2ee3cfae5049b7b217de148b6d351b2bbbef20bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/f44187a633c4f0bad8edd8e95f4689433764bfb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_e1990da844ca9ebd12b480c2721f8265d7cbbfba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/fa0ba3bc0a08536cef12215d7233180b6915f4d8/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_e49ba522ec9f0813bfc8d2bfba59bbbd2ccece4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7b60421f4b20f02e70709734f8511250d071f3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/22b01ba2ef51a8e8fb7c422f48f2d6d17cdf3bbf/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f1071b7e9655f649d8df9662108182d70e174dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_7c25efefcfecf713dc9cc00ad40f0565486e09a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c7f333f16299be0699b532bd5d993377d745e06c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e77b1e48abd775881cb5a184217ac41f8c825918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/22b01ba2ef51a8e8fb7c422f48f2d6d17cdf3bbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_0d422f5cf66bca4c1e3e861a347727f2611ddef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_de303392a5dbd70277aac333d7d129ae6d4ca353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/fc50d678b91ca5c21be61276349e8cd666a2b03d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_c0e76fc461e31c2fd2dafe2dbfdbcbcd0f995f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_840ae3805a490b918285c24bf6ae61c1ed1cee8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_7833b30ac0779206ec55056e974cece40533c57a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/devhulk/.android/build-cache/f0529626013f1b852aa47c4fec9c6382adba5510/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/devhulk/techgesture/chy/android/app/build/intermediates/pre-dexed/debug/classes_07e111bbfca47da1a27332d63a3e18450cf4f2cd.jar" />
+    </item>
+
+</items>
